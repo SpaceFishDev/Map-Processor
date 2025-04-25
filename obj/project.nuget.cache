@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6syZFLJ5cE=",
+  "success": true,
+  "projectFilePath": "/home/liamgatter/dev/C#/map-processor/map-processor.csproj",
+  "expectedPackageFiles": [
+    "/home/liamgatter/.nuget/packages/skiasharp/3.116.1/skiasharp.3.116.1.nupkg.sha512",
+    "/home/liamgatter/.nuget/packages/skiasharp.nativeassets.linux/3.116.1/skiasharp.nativeassets.linux.3.116.1.nupkg.sha512",
+    "/home/liamgatter/.nuget/packages/skiasharp.nativeassets.macos/3.116.1/skiasharp.nativeassets.macos.3.116.1.nupkg.sha512",
+    "/home/liamgatter/.nuget/packages/skiasharp.nativeassets.win32/3.116.1/skiasharp.nativeassets.win32.3.116.1.nupkg.sha512"
+  ],
+  "logs": []
+}
