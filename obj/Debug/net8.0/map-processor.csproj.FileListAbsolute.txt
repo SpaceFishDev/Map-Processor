@@ -27,3 +27,4 @@
 /home/liamgatter/dev/C#/map-processor/obj/Debug/net8.0/map-processor.pdb
 /home/liamgatter/dev/C#/map-processor/obj/Debug/net8.0/map-processor.genruntimeconfig.cache
 /home/liamgatter/dev/C#/map-processor/obj/Debug/net8.0/ref/map-processor.dll
+/home/liamgatter/dev/C#/map-processor/obj/Debug/net8.0/map-processor.sourcelink.json
